@@ -1,0 +1,13 @@
+{
+  "name": "sage-oauth2",
+  "version": "1.0.0",
+  "description": "Toy solution for authentication",
+  "main": "index.js",
+  "author": "Richard Dyce",
+  "license": "MIT",
+  "dependencies": {
+    "client-oauth2": "^4.3.3",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
